@@ -12,7 +12,7 @@ A multi-threaded Python-based CLI tool to perform web fuzzing by brute-forcing a
 
 - 🧵 Multi-threaded for fast performance.
 - 📄 Wordlist-based brute force.
-- ✅ Identifies live subdomains with HTTP 200 status code.
+- ✅ Identifies live directories with HTTP 200 status code.
 - 🖥️ Beautiful ASCII banner for branding.
 - 📦 Simple and lightweight – only requires `requests`.
 
